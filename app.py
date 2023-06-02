@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # In[5]:
+pip install nltk
 
 import nltk
 nltk.download('punkt')
