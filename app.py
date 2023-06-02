@@ -3,6 +3,8 @@
 
 # In[5]:
 
+import nltk
+nltk.download('punkt')
 
 import re
 import nltk
