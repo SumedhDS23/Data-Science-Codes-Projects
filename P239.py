@@ -5,7 +5,7 @@
 
 
 import pandas as pd
-df = pd.read_csv("D:/EXCELR/Project/tweet.csv")
+df = pd.read_csv("https://github.com/SumedhDS23/Data-Science-Codes-Projects/blob/main/tweet.csv")
 
 
 
