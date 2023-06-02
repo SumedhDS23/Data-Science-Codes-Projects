@@ -3,7 +3,6 @@
 
 # In[5]:
 pip install nltk
-
 import nltk
 nltk.download('punkt')
 
